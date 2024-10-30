@@ -61,7 +61,7 @@ $(document).ready(function(){
 		// i. client (carousel)
 		
 			$('#client').owlCarousel({
-				items:7,
+				items:2,
 				loop:true,
 				smartSpeed: 1000,
 				autoplay:true,

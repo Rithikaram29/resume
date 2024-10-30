@@ -48,6 +48,7 @@
 }/*max-width:768px*/
 
 @media screen and (max-width:767px){
+	
 	.single-about-img {max-width: 450px;}
 	.experience-time span>i,.timeline-content span>i,.main-timeline:before {display: none;}
 	.experience-time, .timeline-content {margin-left: 0;}
@@ -58,7 +59,21 @@
 	.profile-border{border: 0;}
 
 	.single-horizontal-timeline {max-width: 350px;margin: 30px auto;}
+	/* .navbar {
+        width: 100%; 
+        left: 0;     
+        right: 0;    
+        position: fixed; 
+        top: 0;      
+        z-index: 999; 
+    }
 
+    
+    .container {
+        width: 100%; 
+        padding: 0; 
+        margin: 0;   
+    } */
 }/*max-width:767px*/
 
 @media screen and (max-width: 660px){
